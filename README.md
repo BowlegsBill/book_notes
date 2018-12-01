@@ -1,1 +1,4 @@
-# book_notes
+## Book notes for:
+
+- Factfulness
+- Peopleware
