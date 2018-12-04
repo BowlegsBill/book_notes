@@ -1,4 +1,4 @@
 ## Book notes for:
 
 - [Factfulness](./factfulness/factfulness.pdf)
-- Peopleware
+- [Peopleware](./peopleware/peopleware.pdf)
